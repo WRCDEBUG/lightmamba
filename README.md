@@ -96,9 +96,9 @@ See `THIRD_PARTY_LICENSES.md`. Several licenses require author verification befo
 
 Use `CITATION.cff.draft` only after author, version, repository, and DOI confirmation.
 
-## 19. Contact Placeholder
+## 19. Contact
 
-CONTACT_AUTHOR_CONFIRMATION_REQUIRED
+For questions about this repository, contact wrclive@outlook.com.
 
 ## 20. Reproducibility Scope
 
