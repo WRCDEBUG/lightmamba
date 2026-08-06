@@ -1,0 +1,6 @@
+{
+  "primary_evaluator": "clean held-out RT-DETR-L",
+  "primary_evaluator_sha256": "aa25d82bad19dd3c0c41f76458084110dfbd8bc2dfb95efc6593df7a2e5fba5c",
+  "loss_detector_sha256": "7fe9ead65dfc4a30e079dd3ad13de4169be604e7a4ab1419b237fa221d8527a5",
+  "checkpoint_files_not_included": true
+}

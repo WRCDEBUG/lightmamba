@@ -1,0 +1,19 @@
+{
+  "写论文/mode___title/main.tex": "3d617e3628a383e5e96806622da0590faed18de2ddf31fb3fbde114a4739cfb0",
+  "写论文/mode___title/references.bib": "6ef8655a4af042e724d1fc0810b3b8d285f3643fa907d2cda663e2ca790fd845",
+  "写论文/mode___title/main.pdf": "70f82e155e08317b065cf403c43dabca09b163d260a3fc4a41de665687a31c55",
+  "configs/revision/final_checkpoint_registry.json": "8216af7249d60f85a2de9864e6e3a48632e4922730830b3bc58f040d921da3d9",
+  "revision_reports/final_checkpoint_metadata.json": "6b70df713ca6c51c20c76be9ca7f56f3573980018c88536e632d3b509b316162",
+  "revision_reports/final_official_test_results.csv": "83f65d8292291669da0cbce893aa218ff2fb0d60bcc9060137f6c00f42c80e42",
+  "revision_reports/final_official_test_fusion_metrics.csv": "957d7e3ee4bb3872b6671e6701b6c4bbe20135f4925faa1f8043d2f6bb4b1a2c",
+  "revision_reports/step7D_official_test_acceptance.md": "d40688c4cce14f51121eb3548690b45dabf3f80929cdeacb53a96bedcf0e7006",
+  "revision_reports/step7E_baselines/step7E_baseline_acceptance.md": "14b9b2bb095d580aca724315847772a954606fdd5489e50de7be9773aefb7dc7",
+  "revision_reports/step7E_baselines/final_official_test_combined_detection.csv": "8636195586fe99aa626f9bec862c090072f980879ad5721359f3455270a30bf5",
+  "revision_reports/step7E_baselines/final_official_test_combined_fusion_metrics.csv": "0f1181ae1997bdb3b06eb577a0408afa0a47ea1c0d374c63814dcd8183cd9e71",
+  "revision_reports/step9A_external_zero_shot/step9A_external_zero_shot_acceptance.md": "058a07f485af8f72786327ecf23f28252088f7673e1c133c5fa874bafd06bec7",
+  "revision_reports/step9A_external_zero_shot/external_zero_shot_fusion_metrics.csv": "abb8a015be7424a46964a07d2d0a8538a1d3844015217cce0cef718b39d4b97f",
+  "revision_reports/step9B_multiseed/step9B_multiseed_acceptance.md": "f31d47c31399c8a569826d5a8051cedb748c9825873c9b6cda2647c24327e747",
+  "revision_reports/step9B_multiseed/multiseed_per_seed_results.csv": "7d1f46d21cfb94d81409a7f3fe2119efbfda8ad88cce6147b62e38d525e9e569",
+  "revision_reports/step9B_multiseed/multiseed_aggregate_results.csv": "5d3a0e4cb5802b104ad6e2843c4abe171fe020faee5cf2cbb49f660acc5a041a",
+  "revision_reports/step9B_multiseed/paired_seed_differences.csv": "1e8aa3f5469c5982d445b1e6cd5d5e0c06a827aa91cc37575cd9097c19ac2c17"
+}

@@ -1,0 +1,15 @@
+{
+  "methods": [
+    "DenseFuse",
+    "CDDFuse",
+    "LRRNet",
+    "SwinFusion",
+    "FusionMamba",
+    "TDFusion",
+    "SAGE"
+  ],
+  "output_mode": "fixed Gray/gray",
+  "input_count": 3463,
+  "rgb_fallback_allowed": false,
+  "baseline_outputs_not_included": true
+}

@@ -1,0 +1,13 @@
+{
+  "train_manifest": "splits/llvip_revision_train.txt",
+  "val_manifest": "splits/llvip_revision_val.txt",
+  "train_count": 10521,
+  "val_count": 1504,
+  "val_groups": [
+    "03",
+    "05",
+    "15"
+  ],
+  "train_sha256": "0c94e87067626124947c1b28a6c6b43590a82f0241987f2a83cde7d76f2ef6e5",
+  "val_sha256": "1e594f2b95fc48d1ad2c633842b64853f455506e69f27b5ff56f099cb1b7fd66"
+}

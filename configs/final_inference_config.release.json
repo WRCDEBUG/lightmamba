@@ -1,0 +1,23 @@
+{
+  "path_placeholders": {
+    "DATA_ROOT": "path/to/datasets",
+    "CHECKPOINT_ROOT": "path/to/checkpoints",
+    "OUTPUT_ROOT": "path/to/outputs"
+  },
+  "final_method": {
+    "kappa_l": 0.00136001268402,
+    "modulation_type": "identity",
+    "semantic_prior_inference": false,
+    "inference_api": "forward_without_semantic_prior",
+    "checkpoint_sha256": "68abaeefc322edec12592017ef57f806f89614dbc7438bf766da45e4a0fc27f9"
+  },
+  "splits": {
+    "revision_train_sha256": "0c94e87067626124947c1b28a6c6b43590a82f0241987f2a83cde7d76f2ef6e5",
+    "revision_val_sha256": "1e594f2b95fc48d1ad2c633842b64853f455506e69f27b5ff56f099cb1b7fd66",
+    "official_test_manifest_sha256": "45bc1e64dd837b33023fa9e65a62e2925fb53e29b1057daee82b9f309b94e64f"
+  },
+  "detectors": {
+    "held_out_rtdetr_l_sha256": "aa25d82bad19dd3c0c41f76458084110dfbd8bc2dfb95efc6593df7a2e5fba5c",
+    "loss_detector_sha256": "7fe9ead65dfc4a30e079dd3ad13de4169be604e7a4ab1419b237fa221d8527a5"
+  }
+}

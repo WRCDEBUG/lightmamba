@@ -1,0 +1,8 @@
+{
+  "dataset": "M3FD",
+  "pair_count": 1050,
+  "manifest_sha256": "55a33f7718b183a1666da7e69d21b8cbb37843321bbb11b94e6beb50d819d673",
+  "decision": "CONDITIONAL_PASS_LIMITED_BASELINES",
+  "text_if_exclusion": "58 dimension mismatches",
+  "detection_ap_reported": false
+}

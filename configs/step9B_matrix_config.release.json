@@ -1,0 +1,16 @@
+{
+  "variants": [
+    "Old gate",
+    "TSAG reference",
+    "No-SAM package"
+  ],
+  "seeds": [
+    7,
+    17,
+    29
+  ],
+  "teacher_epochs": 20,
+  "student_epochs": 20,
+  "final_epoch_only": true,
+  "no_best_checkpoint_selection": true
+}

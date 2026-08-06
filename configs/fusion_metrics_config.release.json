@@ -1,0 +1,13 @@
+{
+  "domain": "luminance",
+  "metrics": [
+    "EN",
+    "SF",
+    "MI",
+    "SSIM",
+    "VIF",
+    "QAB/F"
+  ],
+  "fused_ground_truth_assumed": false,
+  "per_image_minmax": false
+}
